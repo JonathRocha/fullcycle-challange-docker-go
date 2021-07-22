@@ -1,3 +1,7 @@
 # Challange FullCycle Docker Go
 
-Imagem Docker Hub:
+Use the following command to run:
+
+```
+docker run johnferreirar/codeeducation
+```
