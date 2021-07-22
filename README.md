@@ -1,4 +1,4 @@
-# Challange FullCycle Docker Go
+# Challenge FullCycle Docker Go
 
 Use the following command to run:
 
